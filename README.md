@@ -1,7 +1,7 @@
 Description
 ===========
 
-The helloWorldRequestor and helloWorldProvider applications are example OpenDOF requestor and provider applications that implement the Hello World interface. Both the requestor and provider are written as client applications that are designed to connect to an OpenDOF router.
+This is an example of an OpenDOF requestor and provider that implement the Hello World interface. Both the requestor and provider are written as client applications that are designed to connect to an OpenDOF router.
 
 ----------
 
